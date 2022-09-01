@@ -5,14 +5,14 @@ Note your Appointments
 
 This is an ENTIRE application for Java Spring Boot built using:
 
-*Spring Data JPA
-*H2 Database
-*Thymeleaf
+*Spring Data JPA <br>
+*H2 Database   <br>
+*Thymeleaf      <br>
 
 
 Development Instructions:
 
-*git clone the link mentioned
-*open in favorite editor, or
-*mvnw spring-boot:run
-*open http://localhost:8080 
+*git clone the link mentioned  <br>
+*open in favorite editor, or    <br>
+*mvnw spring-boot:run     <br>
+*open http://localhost:8080  <br>
